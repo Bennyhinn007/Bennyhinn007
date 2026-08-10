@@ -1,246 +1,377 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=BENNYHINN&fontSize=60&fontColor=00FF9C&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Software%20Engineering&descAlignY=60&descColor=00FF9C&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HERO BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=820&lines=root%40bennyhinn%3A~%24+whoami;%3E+Cybersecurity+%2B+AI+Security+Student;%3E+Building+adversarial-AI+defenses+%26+DPDP+consent+chains;%3E+Securing+rural+digital+banking+systems;%3E+Open+to%3A+SOC+%7C+Blue+Team+%7C+Cloud+Security+%7C+AI+Security" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=200&section=header&text=Bennyhinn&fontSize=70&fontColor=22D3EE&fontAlignY=35&desc=Cybersecurity%20|%20AI%20Security%20|%20Software%20Engineering&descSize=20&descColor=E2F8FC&descAlignY=65&animation=scaleIn" width="100%" />
 
-![Degree](https://img.shields.io/badge/Degree-B.E._IoT_%26_Cybersecurity-00FF9C?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/College-Guru_Nanak_Dev_Engineering_College-00FF9C?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Bidar,_Karnataka-00FF9C?style=flat-square&labelColor=0D1117)
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TYPING TERMINAL -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Bennyhinn007">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&background=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=180&lines=%24+whoami+%E2%86%92+Bennyhinn+%7C+Cybersecurity+Student;%24+focus+%E2%86%92+AI+Security+%7C+Cloud+Security+%7C+Adversarial+ML;%24+build+%E2%86%92+Defenxia+%7C+RakshaNet+%7C+DPDP+Blockchain;%24+secure+%E2%86%92+Pentesting+%7C+VAPT+%7C+OSINT+%7C+Digital+Forensics;%24+open_to+%E2%86%92+SOC+Analyst+%7C+Blue+Team+%7C+Cloud+Security" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- QUICK INFO BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity_Student-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/VTU-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/GNDEC_Bidar-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Batch_2027-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Bidar,_Karnataka-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/CGPA_8.8-F59E0B?style=flat-square&labelColor=0F172A" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- SOCIAL / CTA BUTTONS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/bennyhinn29/)
-[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:bennysangnalkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Bennyhinn007)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF9C?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://www.instagram.com/benny_._29/)
+<a href="https://github.com/Bennyhinn007">
+<img src="https://img.shields.io/badge/GitHub-Bennyhinn007-22D3EE?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" />
+</a>
+<a href="https://www.linkedin.com/in/bennyhinn29/">
+<img src="https://img.shields.io/badge/LinkedIn-bennyhinn29-22D3EE?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" />
+</a>
+<a href="https://www.instagram.com/benny_._29/">
+<img src="https://img.shields.io/badge/Instagram-benny__29-22D3EE?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" />
+</a>
+<a href="mailto:bennysangnalkar@gmail.com">
+<img src="https://img.shields.io/badge/Email-bennysangnalkar-22D3EE?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0F172A&color=22D3EE" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bennyhinn007&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Bennyhinn007?color=00FF9C&style=flat-square&label=FOLLOWERS&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/Bennyhinn007?color=00FF9C&style=flat-square&label=STARS&labelColor=0D1117)
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- PROFILE METRICS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Bennyhinn007&style=flat-square&color=22D3EE&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Bennyhinn007?style=flat-square&color=22D3EE&labelColor=0F172A&label=Followers" />
+<img src="https://img.shields.io/github/stars/Bennyhinn007?style=flat-square&color=F59E0B&labelColor=0F172A&label=Stars" />
 
 </div>
 
 <br/>
 
-### `~ whoami`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-I'm **Bennyhinn**, a Cybersecurity student (B.E., IoT & Cybersecurity including Blockchain Technology, Class of 2027) focused on the intersection of **Cybersecurity, AI Security, and Software Engineering**. I build tools that simulate attacks, harden AI models, and protect real-world systems — from adversarial ML defenses to blockchain-based data consent frameworks.
+## <img src="https://img.shields.io/badge/-%23-22D3EE?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> About Me`
+
+<img align="right" src="https://img.shields.io/badge/CGPA-8.8-F59E0B?style=for-the-badge&labelColor=0F172A" />
+
+> Cybersecurity student building at the intersection of **offensive security**, **AI adversarial research**, and **secure software engineering**. I break things to understand how to defend them — from adversarial attacks on ML models to blockchain-based privacy systems and cloud infrastructure hardening. Passionate about translating security research into practical, deployable protection systems.
+
+<br/>
 
 ```bash
-ROLE      : Student (Fresher)
-DOMAIN    : Cybersecurity + AI Security + Software Engineering
-STACK     : Java · C · Python · React · Flask · AWS · Docker
-OPEN_TO   : Cybersecurity Internships | SOC Analyst | Blue Team | Cloud Security | AI Security
+#!/usr/bin/env bash
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║                    SYSTEM PROFILE — BENNYHINN                    ║
+# ╚══════════════════════════════════════════════════════════════════╝
+
+ROLE="Cybersecurity Student"
+EXPERIENCE="0 years professional experience"
+DOMAIN="Cybersecurity + AI Security + Software Engineering"
+STACK="Java | C | Python | React | Flask | AWS | Docker | PyTorch"
+OPEN_TO="Cybersecurity Internships | SOC Analyst | Blue Team | Cloud Security | AI Security"
 ```
 
 <br/>
 
-### `~ tech-stack --list`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-**Languages**
-![Skills](https://skillicons.dev/icons?i=java,c,py)
+## <img src="https://img.shields.io/badge/-%23-22D3EE?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> Tech Arsenal`
 
-**Frameworks & Libraries**
-![Skills](https://skillicons.dev/icons?i=flask,react,nextjs,express,tailwind,vite)
-
-**Cloud & Databases**
-![Skills](https://skillicons.dev/icons?i=aws,azure,mongodb,postgres,sqlite)
-
-**DevOps & Tooling**
-![Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman,linux)
-
+<details>
+<summary><b>🔤 Languages</b></summary>
 <br/>
-
-### `~ security-toolkit --show`
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00FF9C?style=flat-square&labelColor=0D1117)
-![Nmap](https://img.shields.io/badge/Nmap-00FF9C?style=flat-square&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-00FF9C?style=flat-square&labelColor=0D1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00FF9C?style=flat-square&labelColor=0D1117)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00FF9C?style=flat-square&labelColor=0D1117)
-![Nessus](https://img.shields.io/badge/Nessus-00FF9C?style=flat-square&labelColor=0D1117)
-![Metasploit](https://img.shields.io/badge/Metasploit-00FF9C?style=flat-square&labelColor=0D1117)
-![Shodan](https://img.shields.io/badge/Shodan-00FF9C?style=flat-square&labelColor=0D1117)
-![Gophish](https://img.shields.io/badge/Gophish-00FF9C?style=flat-square&labelColor=0D1117)
-![Splunk](https://img.shields.io/badge/Splunk-00FF9C?style=flat-square&labelColor=0D1117)
-![Amass](https://img.shields.io/badge/Amass-00FF9C?style=flat-square&labelColor=0D1117)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-00FF9C?style=flat-square&labelColor=0D1117)
-![Netcat](https://img.shields.io/badge/Netcat-00FF9C?style=flat-square&labelColor=0D1117)
-![Gobuster](https://img.shields.io/badge/Gobuster-00FF9C?style=flat-square&labelColor=0D1117)
-![Nikto](https://img.shields.io/badge/Nikto-00FF9C?style=flat-square&labelColor=0D1117)
-![Hydra](https://img.shields.io/badge/Hydra-00FF9C?style=flat-square&labelColor=0D1117)
-![Hashcat](https://img.shields.io/badge/Hashcat-00FF9C?style=flat-square&labelColor=0D1117)
-![SQLmap](https://img.shields.io/badge/SQLmap-00FF9C?style=flat-square&labelColor=0D1117)
-![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-00FF9C?style=flat-square&labelColor=0D1117)
-![OWASP](https://img.shields.io/badge/OWASP-00FF9C?style=flat-square&labelColor=0D1117)
-![MITRE ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-00FF9C?style=flat-square&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-00FF9C?style=flat-square&labelColor=0D1117)
-
-<br/>
-
-### `~ cat expertise.md`
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Penetration Testing & VA | ●●●●○ | Nmap, Burp Suite, OWASP ZAP, Metasploit, SQLmap, Hydra |
-| Web Application Security | ●●●●○ | OWASP Top 10, REST API security, Flask/React hardening |
-| Adversarial Machine Learning | ●●●●○ | FGSM, PGD attacks, adversarial training, defense pipelines |
-| Blockchain & Data Security | ●●●○○ | Smart contracts, AES, Chameleon Hashing, consent systems |
-| Cloud Security (AWS/Azure) | ●●●○○ | EC2, VPC, IAM, secure deployment practices |
-| OSINT & Digital Forensics | ●●●○○ | Shodan, Amass, Gobuster-based recon |
-
-<br/>
-
-### `~ ls ./projects --featured`
-
-<details open>
-<summary><b>🛡️ Defenxia — Adaptive Cybersecurity for Rural Digital Banking</b></summary>
-<br/>
-
-An adaptive cybersecurity framework protecting vulnerable rural digital banking users from OTP scams, phishing, fake UPI requests, and social-engineering attacks — combining AI-assisted fraud detection, multilingual guidance, persona-based protection, offline-ready safety features, explainable risk scoring, and emergency response tools. Built as part of **Team Cyber Samurai** at the **Advaya 2.0 Hackathon**.
-
-| Aspect | Detail |
-|---|---|
-| Stack | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, PostgreSQL, Edge Functions |
-| Scale | Full-stack hackathon build with real-time fraud-detection pipeline |
-| Impact | Contributed fraud-detection workflows, adaptive protection concepts, and the risk-scoring system |
-
+<p>
+<img src="https://img.shields.io/badge/Java-22D3EE?style=flat-square&logo=openjdk&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/C-22D3EE?style=flat-square&logo=c&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=0F172A&labelColor=0F172A" />
+</p>
 </details>
 
 <details>
-<summary><b>🤖 RakshaNet — Adversarial AI Attack & Defence Simulator</b></summary>
+<summary><b>🌐 Frameworks & Frontend</b></summary>
 <br/>
+<p>
+<img src="https://img.shields.io/badge/Flask-22D3EE?style=flat-square&logo=flask&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/React.js-22D3EE?style=flat-square&logo=react&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Next.js-22D3EE?style=flat-square&logo=nextdotjs&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Express.js-22D3EE?style=flat-square&logo=express&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Streamlit-22D3EE?style=flat-square&logo=streamlit&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-22D3EE?style=flat-square&logo=tailwindcss&logoColor=0F172A&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Databases</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/AWS-22D3EE?style=flat-square&logo=amazonaws&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Azure-22D3EE?style=flat-square&logo=microsoftazure&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&logo=mongodb&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PostgreSQL-22D3EE?style=flat-square&logo=postgresql&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/SQL-22D3EE?style=flat-square&logo=mysql&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/SQLite-22D3EE?style=flat-square&logo=sqlite&logoColor=0F172A&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>🛡️ Security Tools</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-22D3EE?style=flat-square&logo=kalilinux&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Nmap-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Wireshark-22D3EE?style=flat-square&logo=wireshark&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Burp_Suite-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Nessus-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Metasploit-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Shodan-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Gophish-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Splunk-22D3EE?style=flat-square&logo=splunk&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Amass-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/John_the_Ripper-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Netcat-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Gobuster-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Nikto-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Hydra-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Hashcat-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/SQLmap-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Aircrack--ng-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & Tools</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Docker_Compose-22D3EE?style=flat-square&logo=docker&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Git-22D3EE?style=flat-square&logo=git&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/GitHub_Actions-22D3EE?style=flat-square&logo=githubactions&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/VirtualBox-22D3EE?style=flat-square&logo=virtualbox&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Postman-22D3EE?style=flat-square&logo=postman&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/VS_Code-22D3EE?style=flat-square&logo=visualstudiocode&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-22D3EE?style=flat-square&logo=intellijidea&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Kiro-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Ganache-22D3EE?style=flat-square&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/npm-22D3EE?style=flat-square&logo=npm&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Vite-22D3EE?style=flat-square&logo=vite&logoColor=0F172A&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>🧠 Cybersecurity Domains</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/OWASP-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MITRE_ATT&CK-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/OSINT-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Penetration_Testing-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Network_Security-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Web_App_Security-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Digital_Forensics-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Adversarial_ML-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Blockchain</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-22D3EE?style=flat-square&logo=pytorch&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MobileNetV2-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/CIFAR--10-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/FGSM-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PGD-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Adversarial_Training-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Ethereum-22D3EE?style=flat-square&logo=ethereum&logoColor=0F172A&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Smart_Contracts-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Chameleon_Hashing-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/AES_Encryption-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Blockchain_Security-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
+</details>
+
+<details>
+<summary><b>📚 Core CS</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/DSA-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/OOP-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Computer_Networks-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Operating_Systems-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/DBMS-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-%23-F59E0B?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> Certifications`
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/CEH_v13-F59E0B?style=for-the-badge&labelColor=0F172A" /><br/>
+<sub><b>Certified Ethical Hacker</b></sub><br/>
+<sub>EC-Council</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/COFPS-F59E0B?style=for-the-badge&labelColor=0F172A" /><br/>
+<sub><b>Certified Offensive & Penetration Testing Specialist</b></sub><br/>
+<sub>HackenFix Academy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/CLLMS-F59E0B?style=for-the-badge&labelColor=0F172A" /><br/>
+<sub><b>Certified LLM Security Expert</b></sub><br/>
+<sub>Red Team Leaders</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/OCI_Foundation-F59E0B?style=for-the-badge&labelColor=0F172A" /><br/>
+<sub><b>OCI Foundation Associate</b></sub><br/>
+<sub>Oracle</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-%23-22D3EE?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> Featured Projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Defenxia
+**Adaptive Cybersecurity for Rural Digital Banking**
+
+<p>
+<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Vite-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Supabase-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PostgreSQL-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
+
+An adaptive cybersecurity framework designed to protect vulnerable rural digital banking users from OTP scams, phishing, fake UPI requests, and social-engineering attacks. Combines AI-assisted fraud detection, multilingual guidance, persona-based protection, offline-ready safety features, explainable risk scoring, and emergency response tools.
+
+**Contribution:** Cybersecurity framework, fraud-detection workflows, adaptive protection concepts, risk-scoring system, and user-focused security features. Built as part of Team Cyber Samurai at Advaya 2.0 Hackathon.
+
+</td>
+<td width="50%">
+
+### 🧠 RakshaNet
+**Adversarial AI Attack & Defence Simulator**
+
+<p>
+<img src="https://img.shields.io/badge/Python-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PyTorch-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Streamlit-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MobileNetV2-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/CIFAR--10-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/NumPy-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
 
 An interactive simulator demonstrating adversarial attacks against image-classification models and evaluating multiple defense mechanisms.
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, PyTorch, Streamlit, MobileNetV2, CIFAR-10, NumPy |
-| Scale | End-to-end attack/defense pipeline with interactive UI |
-| Impact | Implemented FGSM & PGD attacks, Feature Squeezing, Median Filtering, JPEG Compression, and PGD Adversarial Training |
+**Contribution:** Implemented FGSM and PGD attacks, Feature Squeezing, Median Filtering, JPEG Compression, and PGD Adversarial Training. Developed the Streamlit-based interface and integrated the full attack/defense pipeline.
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>🔐 DPDP-Compliant Blockchain Consent Management System</b></summary>
-<br/>
+<table>
+<tr>
+<td>
+
+### 🔗 DPDP-Compliant Blockchain-Based Personal Data Protection & Consent Management System
+
+<p>
+<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Flask-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Ethereum-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Smart_Contracts-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Ganache-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/AES-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Chameleon_Hash-22D3EE?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&labelColor=0F172A" />
+</p>
 
 A privacy-focused platform for secure personal-data and consent management using blockchain, encryption, and redactable-blockchain concepts aligned with India's DPDP requirements.
 
-| Aspect | Detail |
-|---|---|
-| Stack | React, Flask, MongoDB, Ethereum, Smart Contracts, Ganache, AES, Chameleon Hashing, Docker |
-| Scale | Full backend + frontend + on-chain consent workflow |
-| Impact | Built backend architecture, blockchain integration, AES-based protection, and Chameleon Hash simulation layer |
+**Contribution:** Backend architecture, frontend, consent-management workflow, blockchain integration, AES-based data protection, and Chameleon Hash simulation layer. Implemented and tested backend services and integrated the major project components.
 
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### `~ tail experience.log`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-**Advaya 2.0 Hackathon — Team Cyber Samurai** `[Hackathon]`
-- Built **Defenxia**, an adaptive cybersecurity framework for rural digital banking users
-- Designed fraud-detection workflows and an explainable, persona-based risk-scoring system
-- Collaborated across a full-stack team to ship a working prototype under time pressure
-
-`Tags:` ![React](https://img.shields.io/badge/-React-00FF9C?style=flat-square&labelColor=0D1117) ![Supabase](https://img.shields.io/badge/-Supabase-00FF9C?style=flat-square&labelColor=0D1117) ![Fraud Detection](https://img.shields.io/badge/-Fraud_Detection-00FF9C?style=flat-square&labelColor=0D1117)
-
-> No formal industry work experience yet — currently building hands-on expertise through hackathons, personal projects, and certifications.
-
-<br/>
-
-### `~ cat achievements.csv`
-
-<div align="center">
-
-| 🏆 Achievement | Detail |
-|---|---|
-| Certified Ethical Hacker (CEH v13) | EC-Council |
-| Certified Offensive & Penetration Testing Specialist (COFPS) | HackenFix Academy |
-| Certified LLM Security Expert (CLLMS) | Red Team Leaders |
-| Oracle Cloud Infrastructure (OCI) Foundation Associate | Oracle |
-| Academic Standing | 8.8 CGPA — IoT & Cybersecurity incl. Blockchain Technology |
-| Hackathon Build | Defenxia — Team Cyber Samurai, Advaya 2.0 Hackathon |
-
-</div>
-
-<br/>
-
-### `~ whereis education`
-
-![Education](https://img.shields.io/badge/B.E._IoT_%26_Cybersecurity_incl._Blockchain-Guru_Nanak_Dev_Engineering_College,_Bidar-00FF9C?style=for-the-badge&labelColor=0D1117)
-
-<br/>
-
-### `~ github-stats --analyze`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bennyhinn007&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&icon_color=00FF9C&border_color=00FF9C&hide_border=false" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Bennyhinn007&theme=dark&background=0D1117&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bennyhinn007&layout=compact&theme=transparent&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&border_color=00FF9C&hide_border=false" width="49%"/>
-
-</div>
-
-<br/>
-
-### `~ trophy --show`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bennyhinn007&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-</div>
-
-<br/>
-
-### `~ activity --graph`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bennyhinn007&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-### `~ profile-summary --extended`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bennyhinn007&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bennyhinn007&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bennyhinn007&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bennyhinn007&theme=github_dark" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bennyhinn007&theme=github_dark&utcOffset=5.5" width="100%"/>
-
-</div>
-
-<br/>
-
-### `~ ./snake.sh --run`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Bennyhinn007/Bennyhinn007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚠️ Requires the [Snake generator GitHub Action](https://github.com/Platane/snk) to be added to this repo — see setup notes below.
-
-<br/>
-
-### `~ cat current_focus.yaml`
+## <img src="https://img.shields.io/badge/-%23-22D3EE?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> Current Status`
 
 ```yaml
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║                    CURRENT OPERATIONS                            ║
+# ╚══════════════════════════════════════════════════════════════════╝
+
 learning:
-  - Advanced adversarial ML defense strategies
-  - Cloud security architecture (AWS / Azure)
+  - Cloud Security
+  - AI Security
+  - Software Engineering
+  - Data Structures & Algorithms
+
 building:
-  - Adaptive fraud-detection systems for underserved users
-  - Blockchain-based consent & data-protection frameworks
+  - Defenxia — Adaptive Cybersecurity for Rural Digital Banking
+  - RakshaNet — Adversarial AI Attack & Defence Simulator
+  - DPDP-Compliant Blockchain-Based Data Protection System
+
 exploring:
-  - LLM / AI Security
-  - Blue team detection engineering
+  - Adversarial Machine Learning
+  - Blockchain Security
+  - Digital Forensics
+  - Cloud Security
+  - Secure Web Applications
+
 open_to:
   - Cybersecurity Internships
   - SOC Analyst
@@ -251,15 +382,34 @@ open_to:
 
 <br/>
 
-### `~ connect --all`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/bennyhinn29/)
-[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:bennysangnalkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Bennyhinn007)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF9C?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://www.instagram.com/benny_._29/)
+## <img src="https://img.shields.io/badge/-%23-22D3EE?style=flat-square&labelColor=0F172A" height="20" /> &nbsp; `> GitHub Analytics`
 
-<i>"Every system has a weakness — my job is to find it before someone else does."</i>
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bennyhinn007&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E2F8FC&icon_color=22D3EE&bg_color=0F172A&ring_color=22D3EE" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bennyhinn007&theme=transparent&hide_border=true&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=E2F8FC&sideNums=E2F8FC&dates=94A3B8&background=0F172A" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bennyhinn007&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E2F8FC&bg_color=0F172A" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bennyhinn007&bg_color=0F172A&color=22D3EE&line=22D3EE&point=F59E0B&area_color=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+
+</div>
+
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=120&section=footer&text=&fontColor=00FF9C" width="100%"/>
 
 </div>
