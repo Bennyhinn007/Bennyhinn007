@@ -206,19 +206,6 @@ const bennyhinn = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Bennyhinn007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=defenxia&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
-</a>
-<a href="https://github.com/Bennyhinn007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=RakshaNet&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
 ### 🛡️ Defenxia — Adaptive Cybersecurity for Rural Digital Banking
 
 <table>
