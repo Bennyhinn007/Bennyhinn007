@@ -226,11 +226,11 @@ const bennyhinn = {
 
 <div align="center">
 
-<a href="https://github.com/Bennyhinn007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=defenxia&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
+<a href="https://github.com/Bennyhinn007/Defenxia-AI-Powered-Adaptive-Cybersecurity-Framework-for-Rural-Digital-Banking">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=Defenxia-AI-Powered-Adaptive-Cybersecurity-Framework-for-Rural-Digital-Banking&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
 </a>
-<a href="https://github.com/Bennyhinn007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=RakshaNet&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
+<a href="https://github.com/Bennyhinn007/Adversarial-AI-vs-Defence-Simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=Adversarial-AI-vs-Defence-Simulator&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
 </a>
 
 </div>
@@ -338,20 +338,18 @@ A full-stack privacy platform for secure personal-data and consent management us
 
 <br/>
 
+<!--
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bennyhinn007&bg_color=0d1117&color=00f0ff&line=00f0ff&point=f5a623&area_color=00f0ff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" />
-
 </div>
 
 <br/>
 
-<!-- TROPHY -->
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Bennyhinn007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
 </div>
+NOTE: Activity Graph & Trophy cards are temporarily commented out due to Vercel 402 errors on those services. Uncomment when they're back up.
+-->
 
 <br/>
 
