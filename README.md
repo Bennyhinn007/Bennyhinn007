@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=BENNYHINN&fontSize=75&fontColor=00f0ff&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Software%20Engineering&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=BENNYHINN&fontSize=75&fontColor=00f0ff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%20Security&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Bennyhinn007">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Breaking+Systems+to+Build+Them+Stronger;%F0%9F%9B%A1%EF%B8%8F+CEH+%7C+COFPS+%7C+CLLMS+%7C+OCI+Certified;%F0%9F%A7%A0+Adversarial+AI+%7C+Blockchain+Security+%7C+Cloud+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Full-Stack+Developer+%2B+Security+Engineer;%F0%9F%9B%A1%EF%B8%8F+CEH+%7C+COFPS+%7C+CLLMS+%7C+OCI+Certified;%F0%9F%9A%80+I+Build+Products+and+Secure+Them+End-to-End" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- QUICK BADGES -->
-<img src="https://img.shields.io/badge/🎓_Cybersecurity_Student-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💻_Full--Stack_Developer-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🛡️_Cybersecurity_Engineer-0d1117?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/📍_Bidar,_Karnataka-0d1117?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🏫_GNDEC_Bidar_|_VTU-0d1117?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📅_Batch_2023-0d1117?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/⭐_CGPA_8.8-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
@@ -43,19 +43,20 @@
 
 ```js
 const bennyhinn = {
-    role: "Cybersecurity Student",
+    role: ["Full-Stack Developer", "Cybersecurity Engineer"],
     education: "B.Tech IoT & Cybersecurity including Blockchain Technology",
     university: "GNDEC Bidar | VTU | Batch 2027",
-    domain: ["Cybersecurity", "AI Security", "Software Engineering"],
+    buildsWith: ["React", "Next.js", "Node.js", "Flask", "TypeScript", "Python"],
+    secures: ["Web Apps", "APIs", "ML Models", "Blockchain Systems"],
     certifications: ["CEH v13", "COFPS", "CLLMS", "OCI Foundation"],
     currentlyBuilding: ["Defenxia", "RakshaNet", "DPDP Blockchain System"],
-    askMeAbout: ["Pentesting", "Adversarial ML", "Blockchain Security", "Cloud Security"],
-    openTo: ["Cybersecurity Internships", "SOC Analyst", "Blue Team", "AI Security"],
-    funFact: "I break things to understand how to defend them."
+    askMeAbout: ["Full-Stack Dev", "Secure SDLC", "Pentesting", "Adversarial ML"],
+    openTo: ["SDE Roles", "Full-Stack Internships", "AppSec", "SOC Analyst"],
+    philosophy: "I build products end-to-end and secure them by design."
 };
 ```
 
-> **Cybersecurity student with a passion for offensive security, adversarial AI research, and building secure systems.** From attacking ML models with FGSM/PGD to securing digital banking for rural users and building blockchain-based privacy systems — I turn security research into real-world protection. Currently pursuing my B.Tech with a CGPA of 8.8 while stacking industry certifications and shipping security projects.
+> **Full-stack developer and cybersecurity engineer who ships complete products and hardens them from the inside out.** I design and build web apps across the stack — React/Next.js frontends, Node.js and Flask backends, SQL and NoSQL data layers — and bring a security-first mindset to every layer: secure authentication, input validation, threat modeling, and adversarial testing. From shipping React/Supabase platforms to attacking ML models with FGSM/PGD and building blockchain-based privacy systems, I turn ideas into secure, production-ready software. Currently pursuing my B.Tech with a CGPA of 8.8 while stacking industry certifications and shipping real projects.
 
 <br/>
 
@@ -67,19 +68,35 @@ const bennyhinn = {
 
 ### 🔤 Languages
 <p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🌐 Frameworks & Frontend
+### 🎨 Frontend
 <p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge_Functions-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & Databases
@@ -115,7 +132,7 @@ const bennyhinn = {
 <img src="https://img.shields.io/badge/Amass-1E90FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### ⚙️ DevOps & Tools
+### 🔧 DevOps & Tools
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -127,13 +144,13 @@ const bennyhinn = {
 <img src="https://img.shields.io/badge/Kiro-1a1b27?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### 🧠 Cybersecurity Domains
 <p>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/MITRE_ATT&CK-ED1C24?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Secure_SDLC-2E86C1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OSINT-2E86C1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/VAPT-8E44AD?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Security-1ABC9C?style=for-the-badge&logoColor=white" />
@@ -158,6 +175,7 @@ const bennyhinn = {
 <p>
 <img src="https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OOP-0066CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer_Networks-008080?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Operating_Systems-800080?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/DBMS-2F4F4F?style=for-the-badge&logoColor=white" />
@@ -206,7 +224,20 @@ const bennyhinn = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Featured Projects
 
-### 🛡️ Defenxia — Adaptive Cybersecurity for Rural Digital Banking
+<div align="center">
+
+<a href="https://github.com/Bennyhinn007">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=defenxia&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
+</a>
+<a href="https://github.com/Bennyhinn007">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=RakshaNet&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
+</a>
+
+</div>
+
+<br/>
+
+### 🛡️ Defenxia — Full-Stack Adaptive Cybersecurity Platform
 
 <table>
 <tr>
@@ -214,9 +245,9 @@ const bennyhinn = {
 
 **Tech:** `React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Supabase` `PostgreSQL` `Edge Functions`
 
-An adaptive cybersecurity framework protecting vulnerable rural digital banking users from OTP scams, phishing, fake UPI requests, and social-engineering attacks. Features AI-assisted fraud detection, multilingual guidance, persona-based protection, offline-ready safety features, explainable risk scoring, and emergency response tools.
+A full-stack web platform protecting rural digital banking users from OTP scams, phishing, fake UPI requests, and social-engineering attacks. Built an end-to-end product with a responsive React/TypeScript frontend, Supabase/PostgreSQL backend, and serverless Edge Functions — featuring AI-assisted fraud detection, multilingual guidance, persona-based protection, offline-ready safety features, explainable risk scoring, and emergency response tools.
 
-**My Role:** Contributed to the cybersecurity framework, fraud-detection workflows, adaptive protection concepts, risk-scoring system, and user-focused security features. Built as part of **Team Cyber Samurai** at the **Advaya 2.0 Hackathon**.
+**My Role:** Built across the full stack — UI components, backend data layer, serverless functions, fraud-detection workflows, risk-scoring system, and user-focused security features. Delivered as part of **Team Cyber Samurai** at the **Advaya 2.0 Hackathon**.
 
 </td>
 </tr>
@@ -230,15 +261,15 @@ An adaptive cybersecurity framework protecting vulnerable rural digital banking 
 
 **Tech:** `Python` `PyTorch` `Streamlit` `MobileNetV2` `CIFAR-10` `NumPy`
 
-An interactive simulator demonstrating adversarial attacks against image-classification models and evaluating multiple defense mechanisms.
+An interactive full-stack simulator demonstrating adversarial attacks against image-classification models and evaluating multiple defense mechanisms, wrapped in a clean Streamlit application.
 
-**My Role:** Implemented FGSM and PGD attacks, Feature Squeezing, Median Filtering, JPEG Compression, and PGD Adversarial Training. Developed the Streamlit-based interface and integrated the complete attack/defense pipeline.
+**My Role:** Implemented FGSM and PGD attacks, Feature Squeezing, Median Filtering, JPEG Compression, and PGD Adversarial Training. Developed the Streamlit-based interface and integrated the complete attack/defense pipeline end-to-end.
 
 </td>
 </tr>
 </table>
 
-### 🔗 DPDP-Compliant Blockchain-Based Personal Data Protection & Consent Management System
+### 🔗 DPDP-Compliant Blockchain Data Protection & Consent Management System
 
 <table>
 <tr>
@@ -246,9 +277,9 @@ An interactive simulator demonstrating adversarial attacks against image-classif
 
 **Tech:** `React` `Flask` `MongoDB` `Ethereum` `Smart Contracts` `Ganache` `AES` `Chameleon Hashing` `Docker`
 
-A privacy-focused platform for secure personal-data and consent management using blockchain, encryption, and redactable-blockchain concepts aligned with India's DPDP requirements.
+A full-stack privacy platform for secure personal-data and consent management using a React frontend, Flask REST backend, MongoDB storage, and an Ethereum smart-contract layer with redactable-blockchain concepts aligned with India's DPDP requirements.
 
-**My Role:** Worked on backend architecture, frontend, consent-management workflow, blockchain integration, AES-based data protection, and Chameleon Hash simulation layer. Implemented and tested backend services and integrated the major project components.
+**My Role:** Designed the backend architecture and REST APIs, built the React frontend and consent-management workflow, integrated blockchain and smart contracts, implemented AES-based data protection and a Chameleon Hash simulation layer, and containerized the stack with Docker.
 
 </td>
 </tr>
@@ -262,29 +293,28 @@ A privacy-focused platform for secure personal-data and consent management using
 
 ```yaml
 🔬 Currently Learning:
-  - Cloud Security
-  - AI Security
-  - Software Engineering
+  - System Design & Scalable Architecture
+  - Advanced Full-Stack (Next.js, Node.js, REST/GraphQL)
+  - Cloud & AI Security
   - Data Structures & Algorithms
 
 🔨 Currently Building:
-  - Defenxia — Adaptive Cybersecurity for Rural Digital Banking
+  - Defenxia — Full-Stack Adaptive Cybersecurity Platform
   - RakshaNet — Adversarial AI Attack & Defence Simulator
   - DPDP-Compliant Blockchain Data Protection System
 
 🌍 Currently Exploring:
+  - Secure Software Development Lifecycle (DevSecOps)
+  - Full-Stack Web Development
   - Adversarial Machine Learning
   - Blockchain Security
-  - Digital Forensics
-  - Cloud Security
-  - Secure Web Applications
+  - Cloud-Native Applications
 
 💼 Open To:
-  - Cybersecurity Internships
-  - SOC Analyst
-  - Blue Team
-  - Cloud Security
-  - AI Security
+  - Software Engineering (SDE) Roles
+  - Full-Stack Development Internships
+  - Application Security (AppSec)
+  - SOC Analyst / Blue Team
 ```
 
 <br/>
@@ -350,7 +380,7 @@ A privacy-focused platform for secure personal-data and consent management using
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&lines=%22Security+is+not+a+product%2C+it's+a+process.%22;%E2%80%94+Building+Secure+Systems+%7C+One+Exploit+at+a+Time" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=560&lines=%22Build+it+right%2C+then+build+it+secure.%22;%E2%80%94+Full-Stack+Developer+%7C+Security+Engineer" alt="Footer Typing" />
 
 <br/><br/>
 
@@ -359,6 +389,6 @@ A privacy-focused platform for secure personal-data and consent management using
 
 <br/><br/>
 
-<sub>⚡ Crafted with passion by <b>Bennyhinn</b> — Cybersecurity Student | AI Security Researcher | Builder</sub>
+<sub>⚡ Crafted with passion by <b>Bennyhinn</b> — Full-Stack Developer | Cybersecurity Engineer | AI Security Researcher</sub>
 
 </div>
