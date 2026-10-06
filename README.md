@@ -326,7 +326,7 @@ A full-stack privacy platform for secure personal-data and consent management us
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bennyhinn007&show_icons=true&hide_border=true&count_private=true&title_color=00f0ff&icon_color=f5a623&text_color=ffffff&bg_color=0d1117&ring_color=00f0ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bennyhinn007&hide_border=true&background=0d1117&ring=00f0ff&fire=f5a623&currStreakLabel=00f0ff&sideLabels=00f0ff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<a href="https://git.io/streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=Bennyhinn007&theme=youtube-dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" /></a>
 
 </div>
 
