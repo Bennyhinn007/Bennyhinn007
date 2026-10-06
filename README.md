@@ -226,6 +226,55 @@ const bennyhinn = {
 
 <div align="center">
 
+### ⭐ Flagship Project
+
+<img src="https://img.shields.io/badge/🏆_FLAGSHIP-00f0ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔗_Blockchain-F7931A?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔐_Privacy_&_Compliance-8E44AD?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<a href="https://github.com/Bennyhinn007/DPDP-Compliant-Blockchain-Based-Personal-Data-Protection-and-Consent-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=DPDP-Compliant-Blockchain-Based-Personal-Data-Protection-and-Consent-Management-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
+</a>
+
+</div>
+
+<br/>
+
+### 🔗 DPDP-Compliant Blockchain-Based Personal Data Protection & Consent Management System
+
+<table>
+<tr>
+<td>
+
+**Tech:** `React` `Flask` `MongoDB` `Ethereum` `Solidity` `Smart Contracts` `Ganache` `Web3` `AES` `Chameleon Hashing` `Docker`
+
+> **🏆 My flagship full-stack build.** A production-grade privacy platform for secure personal-data and consent management, engineered end-to-end and aligned with **India's DPDP Act** requirements. It combines a modern React frontend, a Flask REST backend, MongoDB storage, and an Ethereum smart-contract layer that uses **redactable-blockchain** concepts (Chameleon Hashing) so data can be lawfully erased without breaking chain integrity — directly solving the tension between immutability and the "right to be forgotten."
+
+**Key Highlights:**
+- 🔐 **Blockchain consent ledger** — every data-access grant/revoke recorded immutably via Ethereum smart contracts
+- ♻️ **Redactable blockchain** — Chameleon Hashing enables DPDP-compliant data erasure on an otherwise immutable chain
+- 🛡️ **AES encryption** — personal data encrypted at rest and in transit
+- 🧩 **Full-stack architecture** — React UI, Flask REST APIs, MongoDB, Web3 integration, all containerized with Docker
+- 📜 **Regulatory alignment** — designed around India's Digital Personal Data Protection framework
+
+**My Role:** Architected the entire stack end-to-end — designed the backend architecture and REST APIs, built the React frontend and consent-management workflow, integrated Ethereum smart contracts and Web3, implemented AES-based data protection and the Chameleon Hash simulation layer, and containerized the full system with Docker.
+
+<a href="https://github.com/Bennyhinn007/DPDP-Compliant-Blockchain-Based-Personal-Data-Protection-and-Consent-Management-System"><img src="https://img.shields.io/badge/🔗_View_Repository-00f0ff?style=for-the-badge&labelColor=0d1117" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🚀 Other Projects
+
+<div align="center">
+
 <a href="https://github.com/Bennyhinn007/Defenxia-AI-Powered-Adaptive-Cybersecurity-Framework-for-Rural-Digital-Banking">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennyhinn007&repo=Defenxia-AI-Powered-Adaptive-Cybersecurity-Framework-for-Rural-Digital-Banking&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=f5a623&text_color=ffffff" />
 </a>
@@ -264,22 +313,6 @@ A full-stack web platform protecting rural digital banking users from OTP scams,
 An interactive full-stack simulator demonstrating adversarial attacks against image-classification models and evaluating multiple defense mechanisms, wrapped in a clean Streamlit application.
 
 **My Role:** Implemented FGSM and PGD attacks, Feature Squeezing, Median Filtering, JPEG Compression, and PGD Adversarial Training. Developed the Streamlit-based interface and integrated the complete attack/defense pipeline end-to-end.
-
-</td>
-</tr>
-</table>
-
-### 🔗 DPDP-Compliant Blockchain Data Protection & Consent Management System
-
-<table>
-<tr>
-<td>
-
-**Tech:** `React` `Flask` `MongoDB` `Ethereum` `Smart Contracts` `Ganache` `AES` `Chameleon Hashing` `Docker`
-
-A full-stack privacy platform for secure personal-data and consent management using a React frontend, Flask REST backend, MongoDB storage, and an Ethereum smart-contract layer with redactable-blockchain concepts aligned with India's DPDP requirements.
-
-**My Role:** Designed the backend architecture and REST APIs, built the React frontend and consent-management workflow, integrated blockchain and smart contracts, implemented AES-based data protection and a Chameleon Hash simulation layer, and containerized the stack with Docker.
 
 </td>
 </tr>
