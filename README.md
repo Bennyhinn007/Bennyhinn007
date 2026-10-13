@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/🛡️_Cybersecurity_Engineer-0d1117?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/📍_Bidar,_Karnataka-0d1117?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🏫_GNDEC_Bidar_|_VTU-0d1117?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⭐_CGPA_8.8-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⭐_CGPA_8.7-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
